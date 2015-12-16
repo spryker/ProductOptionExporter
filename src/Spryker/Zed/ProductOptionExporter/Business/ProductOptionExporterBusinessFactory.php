@@ -11,7 +11,7 @@ use Spryker\Zed\Kernel\Business\AbstractBusinessFactory;
 use Spryker\Zed\ProductOptionExporter\Business\Model\ExportProcessorInterface;
 use Spryker\Zed\ProductOptionExporter\ProductOptionExporterDependencyProvider;
 
-class ProductOptionExporterDependencyContainer extends AbstractBusinessFactory
+class ProductOptionExporterBusinessFactory extends AbstractBusinessFactory
 {
 
     /**
